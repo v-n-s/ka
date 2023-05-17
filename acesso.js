@@ -35,7 +35,7 @@ if(usuario == "karolinne" && senha == "3"){
 
     setTimeout(() => {
 
-    location.href = "https://v9701.github.io/coracao/home.html";
+    location.href = "https://v-n-s.github.io/ka/home.html";
 
     }, 500);
     
@@ -45,7 +45,7 @@ if(usuario == "karolinne" && senha == "3"){
 
     setTimeout(() => {
 
-        location.href = "https://v9701.github.io/coracao/erro.html";
+        location.href = "https://v-n-s.github.io/ka/erro.html";
     
         }, 500);
 
